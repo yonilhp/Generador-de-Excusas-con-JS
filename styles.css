@@ -1,0 +1,16 @@
+.button-container {
+    display: flex;
+  }
+  
+  .excuse-btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    border-bottom: 2px solid black;
+    margin: 0 10px;
+    padding: 5px 10px;
+  }
+  
+  .excuse-output {
+    margin-top: 20px;
+  }
